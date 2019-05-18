@@ -85,7 +85,7 @@ class Report:
                 + " " * offset4
                 + f"{bond.getCoupon()}"
                 + " " * offset5
-                + f"{bond.getyieldAmount()}%"
+                + f"{bond.getYieldAmount()}%"
             )
 
     # This function ensures that the formatting of the final currency is standard. Rather than formatting the

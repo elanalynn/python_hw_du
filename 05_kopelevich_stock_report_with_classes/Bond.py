@@ -23,5 +23,5 @@ class Bond(Stock):
     def getCoupon(self):
         return self.coupon
 
-    def getyieldAmount(self):
+    def getYieldAmount(self):
         return self.yieldAmount

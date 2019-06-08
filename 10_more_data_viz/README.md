@@ -1,4 +1,4 @@
-# Stock and Bond Portfolio with SQLite Database
+# Pie Chart Showing the Distribution of Closing Values
 
 Elana Kopelevich
 June 1, 2019
